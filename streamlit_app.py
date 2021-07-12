@@ -1,4 +1,14 @@
 import streamlit as st
 
-st.video("./Glacier Express.mp4", start_time=10)
+"""
+Here is an application
 
+with some *text*
+
+```
+and some pre text
+
+```
+
+
+"""
